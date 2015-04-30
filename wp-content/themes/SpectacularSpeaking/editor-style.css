@@ -1,0 +1,24 @@
+@import url(./style.css);
+
+body#tinymce {
+  max-width: 701px !important;
+  border-right: 1px dashed #ccc;
+  padding: 15px !important;
+}
+
+p {
+  line-height: 1.8;
+}
+
+.ticket-content {
+   font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.ticket-content ul {
+	list-style: none;
+  width: 80%;
+  margin: 0 auto;
+}
+.ticket-content li{
+  border-bottom: 1px solid #f5f5f5;
+  padding: 10px;
+}

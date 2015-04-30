@@ -1,0 +1,24 @@
+# Ignore config
+local-config.php
+
+# WordPress + popular plugin generated — adapted from:
+# https://github.com/github/gitignore/blob/master/WordPress.gitignore
+sitemap.xml
+sitemap.xml.gz
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/index.php
+wp-content/plugins/index.php
+wp-content/themes/index.php
+wp-content/upgrade/
+wp-content/wp-cache-config.php
+Movefile
+wp-content/*.sql
+.htaccess
+
+theme
+wp-content/uploads
+wp-content/gallery
