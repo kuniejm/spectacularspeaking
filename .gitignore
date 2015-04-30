@@ -1,5 +1,8 @@
 # Ignore config
 local-config.php
+wp-config.php
+wp-config-sample.php
+
 
 # WordPress + popular plugin generated — adapted from:
 # https://github.com/github/gitignore/blob/master/WordPress.gitignore
@@ -18,6 +21,7 @@ wp-content/wp-cache-config.php
 Movefile
 wp-content/*.sql
 .htaccess
+.htaccess-sample
 
 theme
 wp-content/uploads
